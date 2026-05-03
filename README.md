@@ -24,8 +24,8 @@ A hocketing tool built within FL Studio Patcher. Splits the incoming MIDI notes 
 
 ## Installation
 
-1. Download the latest preset file from this repository's Releases page.
-2. If you are on Windows, copy the preset into:
+1. Download `Hocketor.zip` from the [Releases](https://github.com/Everither/hocketor/releases/tag/v1.0.0) page.
+2. Extract and copy into:
 	`Documents\Image-Line\FL Studio\Presets\Plugin presets\Generators\Patcher\`
 3. Restart FL Studio (or refresh the Browser) so the preset appears in the Patcher generator presets list.
 
